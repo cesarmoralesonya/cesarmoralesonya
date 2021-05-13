@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Clean Architecture and Microservices
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about .NET Core, Microsoft Bot framework and LabVIEW
+- 📫 How to reach me: [LinkedIn Profile](linkedin.com/in/cesarmoralesonya)
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarmoralesonya&show_icons=true&theme=dark" alt="ardalis" />
+<div/>
+<br />
 
 <!--
 **cesarmoralesonya/cesarmoralesonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
