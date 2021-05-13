@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Clean Architecture and Microservices
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about .NET Core, Microsoft Bot framework and LabVIEW
-- 📫 How to reach me: [LinkedIn Profile](linkedin.com/in/cesarmoralesonya)
+- 📫 How to reach me: [LinkedIn Profile](www.linkedin.com/in/cesarmoralesonya)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarmoralesonya&show_icons=true&theme=dark" alt="ardalis" />
