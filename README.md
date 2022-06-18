@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Clean Architecture and Microservices
+- 🌱 I’m currently learning about systems architectures design
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about .NET Core, Microsoft Bot framework and LabVIEW
+- 💬 Ask me about .NET, NodeJS, NestJS, Docker, Clean Architecture, Azure, AWS 
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/cesarmoralesonya)
 
 <div>
