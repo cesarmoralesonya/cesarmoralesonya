@@ -15,7 +15,7 @@
             </a>
         </h3>
         <h4 class="profile-badge__content-profile-headline">
-            Senior Software Developer 💻 & IoT Software Lead 🌐
+            Senior Software Developer 💻 & Tech Lead IoT 🌐
         </h4>
         <h4 class="profile-badge__content-profile-company-school-info">
             <a href="https://www.linkedin.com/company/integra-estrategia-tecnologia/?trk=public-profile-badge-profile-badge_company-name"
