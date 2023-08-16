@@ -18,7 +18,7 @@
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmoralesonya&layout=extended&hide=html,css,javascript,ruby&theme=react&langs_count=8" alt="cesarmoralesonya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmoralesonya&layout=donut&hide=html,css,javascript,ruby&theme=react&langs_count=8" alt="cesarmoralesonya" />
 <div/>
 <br />
 <!--
