@@ -1,8 +1,28 @@
-### Hi there 👋
-- 🌱 I’m currently learning about software architecture
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about .NET, NodeJS, NestJS, Docker, Clean Architecture, Azure, AWS 
-- 📫 How to reach me:
+# Welcome to My GitHub Profile! 👋
+
+## About Me
+
+I am Cesar Morales Onya, a passionate developer specializing in HealthTech solutions. My expertise includes:
+
+- **Problem-Solving**: Tackling complex technical challenges in health technology.
+- **Solution Architecture**: Designing efficient and scalable technological infrastructures.
+- **Mechatronic Solutions**: Integrating electronic and computing systems for innovative health products.
+- **Project Leadership**: Leading technological projects from concept to successful execution.
+
+
+## Skills and Technologies
+
+- **Programming Languages**: C#, C++, TypeScript, Python, Shell scripting.
+- **Frameworks**: .NET, NodeJS, FastApi, Hexagonal Architecture, Domain Driven Design, DevSecOps, Data Mesh.
+- **Tools**: Docker, CI/CD pipelines, Large Language Models (LLMs), Mechatronic systems integration.
+
+## Let's Connect
+
+- **LinkedIn**: [Cesar Morales Onyaa](https://www.linkedin.com/in/cesarmoralesonya/?locale=en_US)
+- **Email**: me@cesarmoralesonya.es
+- **Personal Website**: [cesarmoralesonya.es](https://cesarmoralesonya.es)
+
+Thank you for visiting my profile! 😊
 
 <div>
     <div class="profile-badge__content">
@@ -21,17 +41,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmoralesonya&layout=donut&hide=html,css,javascript,ruby&theme=react&langs_count=8" alt="cesarmoralesonya" />
 <div/>
 <br />
-<!--
-**cesarmoralesonya/cesarmoralesonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
