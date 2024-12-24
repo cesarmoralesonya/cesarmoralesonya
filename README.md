@@ -2,7 +2,7 @@
 
 ## About Me 🙋🏽
 
-I am Cesar Morales Onya, a passionate developer specializing in HealthTech solutions. My expertise includes:
+I am Cesar Morales Onya, a passionate about technolgy specializing in HealthTech solutions. My expertise includes:
 
 - **Problem-Solving**: Tackling complex technical challenges in health technology.
 - **Solution Architecture**: Designing efficient and scalable technological infrastructures.
@@ -13,10 +13,10 @@ I am Cesar Morales Onya, a passionate developer specializing in HealthTech solut
 ## Skills and Technologies 💻
 
 - **Design**: C4Model, draw.io, excalidraw, structurizr and Structure101 (Sonar now).
-- **Cloud**: Amazon Web Services and Azure.
-- **Frontend**: Angular and React.
 - **Mobile**: Flutter.
-- **Frameworks**: .NET, NodeJS, FastApi, Hexagonal Architecture, Domain Driven Design, DevSecOps and Data Mesh.
+- **Frontend**: Angular and React.
+- **Cloud**: Amazon Web Services and Azure.
+- **Frameworks**: .NET, NodeJS, FastApi, Hexagonal Architecture, Domain Driven Design, Microservices, DevSecOps and Data Mesh.
 - **Tools**: Docker, CI/CD pipelines, Sonar, Lizard, IaC and Large Language Models (LLMs).
 - **Programming Languages**: C#, C++, TypeScript, Python and Shell scripting.
 
@@ -28,7 +28,9 @@ I am Cesar Morales Onya, a passionate developer specializing in HealthTech solut
 - **Whatsapp**: [direct message](https://wa.me/34635365817)
 
 Thank you for visiting my profile! 😊
-
+<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="8b14f42e-078b-4f78-bda4-9b8486da3411" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="cae1d5c2-a78e-4383-b23d-44c066774410" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="775ca954-3e74-4658-beca-63e0fa79264b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <br />
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmoralesonya&layout=donut&hide=html,css,javascript,ruby&theme=react&langs_count=8" alt="cesarmoralesonya" />
