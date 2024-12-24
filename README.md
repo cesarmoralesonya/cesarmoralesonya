@@ -29,18 +29,6 @@ I am Cesar Morales Onya, a passionate developer specializing in HealthTech solut
 
 Thank you for visiting my profile! 😊
 
-<div>
-    <div class="profile-badge__content">
-        <h3 class="profile-badge__content-profile-name" itemprop="name">
-            <a class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--dark"
-                href="https://www.linkedin.com/in/cesarmoralesonya?trk=public-profile-badge-profile-badge-profile-name"
-                data-tracking-control-name="public-profile-badge-profile-badge-profile-name"
-                data-tracking-will-navigate="">
-                Cesar Morales Linkedin
-            </a>
-        </h3>
-    </div>
-</div>
 <br />
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmoralesonya&layout=donut&hide=html,css,javascript,ruby&theme=react&langs_count=8" alt="cesarmoralesonya" />
