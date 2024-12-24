@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## About Me
+## About Me 🙋🏽
 
 I am Cesar Morales Onya, a passionate developer specializing in HealthTech solutions. My expertise includes:
 
@@ -10,17 +10,22 @@ I am Cesar Morales Onya, a passionate developer specializing in HealthTech solut
 - **Project Leadership**: Leading technological projects from concept to successful execution.
 
 
-## Skills and Technologies
+## Skills and Technologies 💻
 
-- **Programming Languages**: C#, C++, TypeScript, Python, Shell scripting.
-- **Frameworks**: .NET, NodeJS, FastApi, Hexagonal Architecture, Domain Driven Design, DevSecOps, Data Mesh.
-- **Tools**: Docker, CI/CD pipelines, Large Language Models (LLMs), Mechatronic systems integration.
+- **Design**: C4Model, draw.io, excalidraw, structurizr and Structure101 (Sonar now).
+- **Cloud**: Amazon Web Services and Azure.
+- **Frontend**: Angular and React.
+- **Mobile**: Flutter.
+- **Frameworks**: .NET, NodeJS, FastApi, Hexagonal Architecture, Domain Driven Design, DevSecOps and Data Mesh.
+- **Tools**: Docker, CI/CD pipelines, Sonar, Lizard, IaC and Large Language Models (LLMs).
+- **Programming Languages**: C#, C++, TypeScript, Python and Shell scripting.
 
-## Let's Connect
+## Let's Connect 📬
 
-- **LinkedIn**: [Cesar Morales Onyaa](https://www.linkedin.com/in/cesarmoralesonya/?locale=en_US)
-- **Email**: me@cesarmoralesonya.es
+- **LinkedIn**: [Cesar Morales Onya](https://www.linkedin.com/in/cesarmoralesonya/?locale=en_US)
 - **Personal Website**: [cesarmoralesonya.es](https://cesarmoralesonya.es)
+- **Email**: me@cesarmoralesonya.es
+- **Whatsapp**: [direct message](https://wa.me/34635365817)
 
 Thank you for visiting my profile! 😊
 
