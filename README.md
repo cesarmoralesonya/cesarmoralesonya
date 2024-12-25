@@ -18,6 +18,7 @@ I am Cesar Morales Onya, a passionate about technolgy specializing in HealthTech
 - **Frameworks**: .NET, NodeJS, FastApi, Hexagonal Architecture, Domain Driven Design, Microservices, DevSecOps and Data Mesh.
 - **Tools**: Docker, CI/CD pipelines, Sonar, Lizard, IaC and Large Language Models (LLMs).
 - **Programming Languages**: C#, C++, TypeScript, Python and Shell scripting.
+- **Focus Areas**: System scalability, microservices, and data-driven design.
 
 ## Certifications 📜
 
