@@ -31,10 +31,4 @@ I am Cesar Morales Onya, a passionate about technolgy specializing in HealthTech
 - **Email**: [me@cesarmoralesonya.es](mailto:me@cesarmoralesonya.es)
 - **Whatsapp**: [direct message](https://wa.me/34635365817)
 
-## GitHub Stats 📊
-
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmoralesonya&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarmoralesonya&layout=donut&hide=html,css,javascript,ruby&theme=react&langs_count=8)
-
 Thank you for visiting my profile! 😊
